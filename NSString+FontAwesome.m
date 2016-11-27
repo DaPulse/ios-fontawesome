@@ -180,6 +180,7 @@
 		tmp[@"fa-eye"]					= @(FAEye);
 		tmp[@"fa-eye-slash"]			= @(FAEyeSlash);
 		tmp[@"fa-exclamation-triangle"]	= @(FAExclamationTriangle);
+		tmp[@"fa-warning"]	            = @(FAExclamationTriangle);
 		tmp[@"fa-plane"]				= @(FAPlane);
 		tmp[@"fa-calendar"]				= @(FACalendar);
 		tmp[@"fa-random"]				= @(FARandom);
